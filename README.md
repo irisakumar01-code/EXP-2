@@ -5,7 +5,6 @@ Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
-
 Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
 2	Ammeter	(0-2.5)A	MC	1
@@ -15,17 +14,12 @@ Sl .no	Apparatus	Range	Type	Quantity
 6	Connecting wires	-	-	As required
 
 Fuse rating calculation for field and armature:
-
 No load test
-
 10 % of rated current (full load current)
-
 Load test
-
 125 % of rated current (full load current)
 
 Precautions
-
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
@@ -38,7 +32,6 @@ Procedure
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Procedure for Load test:
-
 1.   Connections are given as per the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
 3.   By varying the generator field rheostat gradually, the rated voltage [Eg] is obtained.
@@ -62,5 +55,4 @@ Load Characteristics:
 <img width="796" height="618" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/c4deb130-a5f4-4138-9077-fa40d8cd1e23" />
 
 Result:
-
 The load test on separately excited generators and to obtain the characteristics was verified.
