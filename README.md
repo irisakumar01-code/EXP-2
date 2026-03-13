@@ -81,23 +81,23 @@ Open circuit characteristics:
 
 <img width="794" height="684" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/1658548a-33ad-49b0-8359-b566d4d36e5f" />
 
-Name:A IRIS
+.
 
 .
 
-slot:T1-J4
+.
 
 .
 
-Basic electrical and electronics engineering
+.
 
 .
 
-212225220040
+.
 
 .
 
-open circuit and load circuit
+.
 
 .
 
