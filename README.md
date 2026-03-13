@@ -83,9 +83,25 @@ Open circuit characteristics:
 
 Name:A IRIS
 
-212225220040
+.
 
 slot:T1-J4
+
+.
+
+Basic electrical and electronics engineering
+
+.
+
+212225220040
+
+.
+
+open circuit and load circuit
+
+.
+
+.
 
 Load Characteristics:
 
